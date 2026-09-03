@@ -10,7 +10,7 @@ class Livro {
 
     public Livro(String titulo, String autor, int anoPublicacao, boolean disponibilidade) {
         this.titulo = titulo;
-        this.'autor = autor;
+        this.autor = autor;
         this.data = data;
         this.disponibilidade = disponibilidade;
     }
